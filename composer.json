@@ -1,0 +1,14 @@
+{
+    "name": "makewebbetter/standard-library",
+    "type": "library",
+    "description": "Your package description goes here",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://makewebbetter.com",
+    "license": "GUI",
+    "authors": [{
+        "name": "Ashutosh Verma",
+        "email": "ashutoshverma@makewebbetter.com",
+        "homepage": "https://makewebbetter.com",
+        "role": "Developer"
+    }],
+}
